@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${env:USERPROFILE}\\Downloads\\Visual C++ 6.0\\VC98\\Include",
+                "${env:USERPROFILE}\\Downloads\\Visual C++ 6.0\\VC98\\MFC\\Include",
+                "${env:USERPROFILE}\\Downloads\\Visual C++ 6.0\\VC98\\ATL\\Include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "${env:USERPROFILE}\\Downloads\\Visual C++ 6.0\\VC98\\bin\\cl.exe",
+            "cStandard": "c89",
+            "cppStandard": "c++98",
+            "intelliSenseMode": "windows-msvc-x86"
+        }
+    ],
+    "version": 4
+}
